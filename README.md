@@ -10,33 +10,21 @@
       .7..#_.. _f.                .....-..,`4'
       ;` ,#j.  T'      ..         ..J....,'.j`
      .` .."^.,-0.,,,,yMMMMM,.    ,-.J...+`.j@
-    .'.`...' .yMMMMM0M@^=`""g.. .'..J..".'.jH
-    j' .'1`  q'^)@@#"^".`"='BNg_...,]_)'...0-                          STAR WARS
-   .T ...I. j"    .'..+,_.'3#MMM0MggCBf....F.                         TIE FIGHTER
-   j/.+'.{..+       `^~'-^~~""""'"""?'"``'1`
+    .'.`...' .yMMMMM0M@^=`""g.. .'..J..".'.jH                             Hey, i'm Sprechblase ..
+    j' .'1`  q'^)@@#"^".`"='BNg_...,]_)'...0-                          .. a confused Java Developer.
+   .T ...I. j"    .'..+,_.'3#MMM0MggCBf....F.                  
+   j/.+'.{..+       `^~'-^~~""""'"""?'"``'1`                       I'm currently programming for @Pypeware
    .... .y.}                  `.._-:`_...jf
    g-.  .Lg'                 ..,..'-....,'.
   .'.   .Y^                  .....',].._f
   ......-f.                 .-,,.,.-:--&`
                             .`...'..`_J`
-                            .~......'#'
-                            '..,,.,_]`    
+      STAR WARS             .~......'#'
+     TIE FIGHTER            '..,,.,_]`    
                             .L..`..``.     
 ```
   
-  
--------------
-  
-  
-  
-Hey, i'm Sprechblase ..  
-.. a confused Java Developer.
-
-I'm currently programming for [@Pypeware](https://github.com/Pypeware "@Pypeware")
-  
-
-  
-  
+    
 -------------
   
   
