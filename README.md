@@ -32,7 +32,7 @@
 Hey, i'm Sprechblase ..  
 .. a confused Java Developer.
 
-Currently i'm programming for [@Pypeware](https://github.com/Pypeware "@Pypeware")
+I'm currently programming for [@Pypeware](https://github.com/Pypeware "@Pypeware")
   
 
   
