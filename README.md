@@ -27,5 +27,6 @@
     
 -------------
   
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sprechblase&show_icons=true&theme=dark&hide_border=true&hide_title=true&hide=contributions&include_all_commits=true&bg_color=161b22&icon_color=5bb3ff) 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sprechblase&show_icons=true&theme=dark&hide_border=true&hide_title=true&hide=contributions&include_all_commits=true&bg_color=161b22&icon_color=5bb3ff"></img>
+</p>
