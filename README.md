@@ -10,8 +10,8 @@
       .7..#_.. _f.                .....-..,`4'
       ;` ,#j.  T'      ..         ..J....,'.j`
      .` .."^.,-0.,,,,yMMMMM,.    ,-.J...+`.j@
-    .'.`...' .yMMMMM0M@^=`""g.. .'..J..".'.jH                             Hey, i'm Sprechblase ..
-    j' .'1`  q'^)@@#"^".`"='BNg_...,]_)'...0-                          .. a confused Java Developer.
+    .'.`...' .yMMMMM0M@^=`""g.. .'..J..".'.jH                             Hey, i'm Sprechblase
+    j' .'1`  q'^)@@#"^".`"='BNg_...,]_)'...0-                              a Java Developer.
    .T ...I. j"    .'..+,_.'3#MMM0MggCBf....F.                  
    j/.+'.{..+       `^~'-^~~""""'"""?'"``'1`                       I'm currently programming for @Pypeware
    .... .y.}                  `.._-:`_...jf
