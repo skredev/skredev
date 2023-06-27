@@ -22,5 +22,6 @@
      TIE FIGHTER            '..,,.,_]`    
                             .L..`..``.     
 ```
-
-<center>![Visitor Count](https://profile-counter.glitch.me/Sprechblase/count.svg)</center>
+<p align="center">
+![Visitor Count](https://profile-counter.glitch.me/Sprechblase/count.svg)
+</p>
