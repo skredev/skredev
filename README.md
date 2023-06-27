@@ -23,5 +23,5 @@
                             .L..`..``.     
 ```
 <p align="center">
-![Visitor Count](https://profile-counter.glitch.me/Sprechblase/count.svg)
+<img src="https://profile-counter.glitch.me/Sprechblase/count.svg">
 </p>
