@@ -23,4 +23,4 @@
                             .L..`..``.     
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/Sprechblase/count.svg)
+<center>![Visitor Count](https://profile-counter.glitch.me/Sprechblase/count.svg)</center>
