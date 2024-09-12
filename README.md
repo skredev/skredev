@@ -22,6 +22,35 @@
      TIE FIGHTER            '..,,.,_]`    
                             .L..`..``.     
 ```
+
+---
+
+<p align="right">
+  <picture>
+    <img align=top src="https://komarev.com/ghpvc/?username=sprechblase" />
+  </picture>
+</p>
 <p align="center">
-<img src="https://profile-counter.glitch.me/Sprechblase/count.svg">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sprechblase&show_icons=true&theme=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sprechblase&show_icons=true&theme=catppuccin_latte"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprechblase&show_icons=true" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=sprechblase&show_icons=true&theme=transparent&hide_title=true&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=sprechblase&show_icons=true&theme=catppuccin_latte&hide_title=true&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprechblase&show_icons=true" />
+  </picture>
 </p>
