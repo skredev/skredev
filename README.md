@@ -54,3 +54,8 @@
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprechblase&show_icons=true" />
   </picture>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,java,nodejs,next,react,firebase,git,github,docker,linux,vscode,idea,ae,ps,ai" />
+  </a>
+</p>
