@@ -27,31 +27,31 @@
 
 <p align="right">
   <picture>
-    <img align=top src="https://komarev.com/ghpvc/?username=sprechblase" />
+    <img align=top src="https://komarev.com/ghpvc/?username=skredev" />
   </picture>
 </p>
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sprechblase&show_icons=true&theme=transparent&hide_border=true&layout=compact&langs_count=8"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skredev&show_icons=true&theme=transparent&hide_border=true&layout=compact&langs_count=8"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sprechblase&show_icons=true&theme=catppuccin_latte&hide_border=true&layout=compact&langs_count=8"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=skredev&show_icons=true&theme=catppuccin_latte&hide_border=true&layout=compact&langs_count=8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprechblase&show_icons=true" />
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=skredev&show_icons=true" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=sprechblase&show_icons=true&theme=transparent&hide_title=true&rank_icon=github&hide_border=true&line_height=30"
+      srcset="https://github-readme-stats.vercel.app/api?username=skredev&show_icons=true&theme=transparent&hide_title=true&rank_icon=github&hide_border=true&line_height=30"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=sprechblase&show_icons=true&theme=catppuccin_latte&hide_title=true&rank_icon=github&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=skredev&show_icons=true&theme=catppuccin_latte&hide_title=true&rank_icon=github&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprechblase&show_icons=true" />
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=skredev&show_icons=true" />
   </picture>
 </p>
 
