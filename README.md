@@ -59,6 +59,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,java,nodejs,next,react,firebase,git,github,docker,linux,vscode,idea,ae,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,tailwind,nextjs,react,nodejs,npm,pnpm,discordjs,arduino,docker,nginx,cloudflare,firebase,git,md,github,linux,windows,eclipse,idea,vscode,ae,ai,ps" />
   </a>
 </p>
